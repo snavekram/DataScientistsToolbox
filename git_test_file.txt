@@ -12,3 +12,5 @@ Further editing to force a change - practice using difference
 And another!
 
 And this is a line I have added in error - I won't to test reversion
+
+And this is an edit on the works computer - works OK when not behind firewall!!!
